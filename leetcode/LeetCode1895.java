@@ -1,3 +1,5 @@
+package leetcode;
+
 public class LeetCode1895 {
 
     public int largestMagicSquare(int[][] grid) {

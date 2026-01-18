@@ -1,3 +1,5 @@
+package leetcode;
+
 public class LeetCode3047 {
     public long largestSquareArea(int[][] bottomLeft, int[][] topRight) {
         long maxArea = 0;

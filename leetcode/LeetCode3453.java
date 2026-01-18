@@ -1,3 +1,5 @@
+package leetcode;
+
 public class LeetCode3453 {
     public double areaBelow(double mid, int[][] squares) {
         double area = 0;

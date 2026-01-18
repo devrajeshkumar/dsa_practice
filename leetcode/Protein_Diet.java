@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.util.Scanner;
 
 public class Protein_Diet {

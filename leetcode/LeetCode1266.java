@@ -1,3 +1,5 @@
+package leetcode;
+
 public class LeetCode1266 {
     public int minTimeToVisitAllPoints(int[][] points) {
         int min = 0;
